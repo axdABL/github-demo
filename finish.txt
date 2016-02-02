@@ -1,0 +1,2 @@
+This is the 2nd text sample file for the github demo.
+It is a good version source control tool.
