@@ -1,1 +1,3 @@
 Introducing the first file to github.
+This is a new entry to this text file.
+These lines are being added for observing the changes in the git status.

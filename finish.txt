@@ -1,2 +1,3 @@
 This is the 2nd text sample file for the github demo.
 It is a good version source control tool.
+These lines are being added for an update message.
